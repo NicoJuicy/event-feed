@@ -15,12 +15,12 @@ timeout = 30
 # titleSelector = ".current-report-heading,.current-report-subheading"
 # linkSelector = "a.reports-grid-link"
 # 
-# [funfacts]
-# title = "Wikipedia — did you know?"
-# url = "https://en.wikipedia.org/wiki/Main_Page"
-# entrySelector = "#mp-dyk > ul li"
-# titleSelector = "b"
-# linkSelector = "b a"
+[funfacts]
+title = "Wikipedia — did you know?"
+url = "https://en.wikipedia.org/wiki/Main_Page"
+entrySelector = "#mp-dyk > ul li"
+titleSelector = "b"
+linkSelector = "b a"
 # 
 # [fod-auction]
 # title = "FOD - Openbare verkopen"

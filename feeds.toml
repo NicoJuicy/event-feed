@@ -1,60 +1,60 @@
 [default]
 timeout = 30
 
-[autostore]
-title = "Autostore - Investors"
-url = "https://www.autostoresystem.com/investors"
-entrySelector = "div.section"
-titleSelector = "div.evergreen-news-headline a"
-linkSelector = "div.evergreen-news-headline a[href]"
-
-[cloudflare]
-title = "Cloudflare - Investors"
-url = "https://cloudflare.net/news/default.aspx"
-entrySelector = ".evergreen-news-item"
-titleSelector = ".current-report-heading,.current-report-subheading"
-linkSelector = "a.reports-grid-link"
-
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
-
-[fod-auction]
-title = "FOD - Openbare verkopen"
-url = "https://finshop.belgium.be/nl_BE/event"
-entrySelector = "td.oe_product"
-titleSelector = "div.o_wsale_product_information_text h6 a"
-linkSelector = "a[href]"
-
-
-[fod-shop-sport-and-outdoor]
-title = "FOD - Sport & Vrije tijd - Brussel P1"
-url = "https://finshop.belgium.be/nl_BE/shop?type=direct_shop&finshop=3&category_select=6&state=&price=&keyword="
-entrySelector = "td.oe_product"
-titleSelector = "div.o_wsale_product_information_text h6 a"
-linkSelector = "a[href]"
-
-[fod-auction-sport-and-outdoor]
-title = "FOD - Sport & Vrije tijd - Brussel P1"
-url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=&category_select=6&state=&keyword="
-entrySelector = "td.oe_product"
-titleSelector = "div.o_wsale_product_information_text h6 a"
-linkSelector = "a[href]"
-
-[fod-auction-car-and-bike]
-title = "FOD - Sport & Vrije tijd - Brussel P1"
-url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=3&category_select=1&state=&keyword="
-entrySelector = "td.oe_product"
-titleSelector = "div.o_wsale_product_information_text h6 a"
-linkSelector = "a[href]"
-
-[faillissementsdossier-veiling-wagens]
-title = "FaillissementsDossier - Wagens"
-url = "https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/"
-entrySelector = ".zoekresctr div.row.bm"
-titleSelector = "h2 a"
-linkSelector = "h2 a[href]"
+# [autostore]
+# title = "Autostore - Investors"
+# url = "https://www.autostoresystem.com/investors"
+# entrySelector = "div.section"
+# titleSelector = "div.evergreen-news-headline a"
+# linkSelector = "div.evergreen-news-headline a[href]"
+# 
+# [cloudflare]
+# title = "Cloudflare - Investors"
+# url = "https://cloudflare.net/news/default.aspx"
+# entrySelector = ".evergreen-news-item"
+# titleSelector = ".current-report-heading,.current-report-subheading"
+# linkSelector = "a.reports-grid-link"
+# 
+# [funfacts]
+# title = "Wikipedia — did you know?"
+# url = "https://en.wikipedia.org/wiki/Main_Page"
+# entrySelector = "#mp-dyk > ul li"
+# titleSelector = "b"
+# linkSelector = "b a"
+# 
+# [fod-auction]
+# title = "FOD - Openbare verkopen"
+# url = "https://finshop.belgium.be/nl_BE/event"
+# entrySelector = "td.oe_product"
+# titleSelector = "div.o_wsale_product_information_text h6 a"
+# linkSelector = "a[href]"
+# 
+# 
+# [fod-shop-sport-and-outdoor]
+# title = "FOD - Sport & Vrije tijd - Brussel P1"
+# url = "https://finshop.belgium.be/nl_BE/shop?type=direct_shop&finshop=3&category_select=6&state=&price=&keyword="
+# entrySelector = "td.oe_product"
+# titleSelector = "div.o_wsale_product_information_text h6 a"
+# linkSelector = "a[href]"
+# 
+# [fod-auction-sport-and-outdoor]
+# title = "FOD - Sport & Vrije tijd - Brussel P1"
+# url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=&category_select=6&state=&keyword="
+# entrySelector = "td.oe_product"
+# titleSelector = "div.o_wsale_product_information_text h6 a"
+# linkSelector = "a[href]"
+# 
+# [fod-auction-car-and-bike]
+# title = "FOD - Sport & Vrije tijd - Brussel P1"
+# url = "https://finshop.belgium.be/nl_BE/shop?type=auction&finshop=3&category_select=1&state=&keyword="
+# entrySelector = "td.oe_product"
+# titleSelector = "div.o_wsale_product_information_text h6 a"
+# linkSelector = "a[href]"
+# 
+# [faillissementsdossier-veiling-wagens]
+# title = "FaillissementsDossier - Wagens"
+# url = "https://www.faillissementsdossier.be/nl/veilingen/auto-en-voertuigen/"
+# entrySelector = ".zoekresctr div.row.bm"
+# titleSelector = "h2 a"
+# linkSelector = "h2 a[href]"
 

@@ -4,9 +4,9 @@ timeout = 30
 [uit-brugge]
 title = "UiT in Brugge Events"
 url = "https://www.brugge.be/uit-in-brugge"
-entrySelector = ".event-item"
-titleSelector = ".event-title"
-linkSelector = "a"
+entrySelector = ".c-card"
+titleSelector = "a.typo-h4"
+linkSelector = "a.typo-h4"
 dateSelector = ".event-date"
 locationSelector = ".event-location"
 descriptionSelector = ".event-description"

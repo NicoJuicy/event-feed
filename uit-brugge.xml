@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.brugge.be/uit-in-brugge</id>
+    <title>UiT in Brugge Events</title>
+    <updated>2025-03-21T14:05:25.489Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.brugge.be/profiles/anvil/brugge.be-distribution/themes/bbe/favicon.ico</icon>
+</feed>

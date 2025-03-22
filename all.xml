@@ -2,665 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NicoJuicy.github.io/event-feed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-21T17:34:26.529Z</updated>
+    <updated>2025-03-22T05:34:55.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[DJ Alloo Alloo (UiT in Brugge Events)]]></title>
-        <id>https://www.brugge.be/activiteiten/dj-alloo-alloo-1</id>
-        <link href="https://www.brugge.be/activiteiten/dj-alloo-alloo-1"/>
-        <updated>2025-03-21T17:34:23.316Z</updated>
-        <content type="html"><![CDATA[<div class="relative ">
-					
-<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
-									
-		<div class="flex flex-col items-center">
-							<p class="typo-overline text-neutral-80">vr</p>
-			
-							<p class=" typo-h3 text-black leading-none">21</p>
-			
-							<p class="leading-none">mrt</p>
-			
-							<p class="typo-overline text-neutral-80">2025</p>
-					</div>
-
-			</div>
-		
-		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
-								
-
-<figure>
-	    <picture>
-                  <source srcset="/sites/default/files/styles/card_desktop/public/326a6b15-2270-4ad0-b272-7a284c59b83f.jpeg?itok=cv4uuxmX 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="287">
-              <source srcset="/sites/default/files/styles/card_mobile/public/326a6b15-2270-4ad0-b272-7a284c59b83f.jpeg?itok=7ASfe8PV 1x" type="image/jpeg" width="585" height="390">
-                  <img loading="lazy" src="/sites/default/files/326a6b15-2270-4ad0-b272-7a284c59b83f.jpeg" width="4000" height="2670" alt="DJ Alloo Alloo">
-
-  </picture>
-
-
-</figure>
-
-					</div>
-
-			</div>
-
-	<div class="z-10 flex flex-1 c-card__container">
-		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
-			<div class="flex flex-col gap-2 vp7:gap-4">
-				<div class="flex flex-col gap-1 vp7:gap-2">
-											<div class="flex items-center gap-3">
-															<span class="sr-only">Thema is</span>
-
-								<p class="typo-overline text-neutral-80">Feesten</p>
-							
-							
-													</div>
-					
-											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/dj-alloo-alloo-1">
-							
-<span>DJ Alloo Alloo</span>
-
-						</a>
-					
-									</div>
-
-									<div class="flex flex-col gap-2">
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Café alloo alloo</p>
-							</div>
-						
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Vanaf 16 jaar</p>
-							</div>
-											</div>
-							</div>
-
-							
-
-  
-
-<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
-	
-			<div>
-			<span class="c-link__text typo-strong text-primary">Lees meer</span>
-		</div>
-	
-			
-	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
-</svg>
-
-	</span>
-	</div>
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinepolis XXL! : Disney's Snow White (UiT in Brugge Events)]]></title>
-        <id>https://www.brugge.be/activiteiten/kinepolis-xxl-disneys-snow-white</id>
-        <link href="https://www.brugge.be/activiteiten/kinepolis-xxl-disneys-snow-white"/>
-        <updated>2025-03-21T17:34:23.318Z</updated>
-        <content type="html"><![CDATA[<div class="relative ">
-					
-<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
-									
-		<div class="flex flex-col items-center">
-							<p class="typo-overline text-neutral-80">vr</p>
-			
-							<p class=" typo-h3 text-black leading-none">21</p>
-			
-							<p class="leading-none">mrt</p>
-			
-							<p class="typo-overline text-neutral-80">2025</p>
-					</div>
-
-			</div>
-		
-		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
-								
-
-<figure>
-	    <picture>
-                  <source srcset="/sites/default/files/styles/card_desktop/public/0e87b550-76fd-4e19-8496-5accaa4ed482.jpeg?itok=guwSY6_e 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="614">
-              <source srcset="/sites/default/files/styles/card_mobile/public/0e87b550-76fd-4e19-8496-5accaa4ed482.jpeg?itok=xHxTDWDu 1x" type="image/jpeg" width="462" height="660">
-                  <img loading="lazy" src="/sites/default/files/0e87b550-76fd-4e19-8496-5accaa4ed482.jpeg" width="462" height="660" alt="Kinepolis XXL! : Disney's Snow White">
-
-  </picture>
-
-
-</figure>
-
-					</div>
-
-			</div>
-
-	<div class="z-10 flex flex-1 c-card__container">
-		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
-			<div class="flex flex-col gap-2 vp7:gap-4">
-				<div class="flex flex-col gap-1 vp7:gap-2">
-											<div class="flex items-center gap-3">
-															<span class="sr-only">Thema is</span>
-
-								<p class="typo-overline text-neutral-80">Film</p>
-							
-							
-													</div>
-					
-											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/kinepolis-xxl-disneys-snow-white">
-							
-<span>Kinepolis XXL! : Disney's Snow White</span>
-
-						</a>
-					
-									</div>
-
-									<div class="flex flex-col gap-2">
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Kinepolis Brugge</p>
-							</div>
-						
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Alle leeftijden</p>
-							</div>
-											</div>
-							</div>
-
-							
-
-  
-
-<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
-	
-			<div>
-			<span class="c-link__text typo-strong text-primary">Lees meer</span>
-		</div>
-	
-			
-	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
-</svg>
-
-	</span>
-	</div>
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een avond met Ingeborg  Ingeborg TM Sergeant (UiT in Brugge Events)]]></title>
-        <id>https://www.brugge.be/activiteiten/een-avond-met-ingeborg-ingeborg-tm-sergeant</id>
-        <link href="https://www.brugge.be/activiteiten/een-avond-met-ingeborg-ingeborg-tm-sergeant"/>
-        <updated>2025-03-21T17:34:23.319Z</updated>
-        <content type="html"><![CDATA[<div class="relative ">
-					
-<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
-									
-		<div class="flex flex-col items-center">
-							<p class="typo-overline text-neutral-80">vr</p>
-			
-							<p class=" typo-h3 text-black leading-none">21</p>
-			
-							<p class="leading-none">mrt</p>
-			
-							<p class="typo-overline text-neutral-80">2025</p>
-					</div>
-
-			</div>
-		
-		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
-								
-
-<figure>
-	    <picture>
-                  <source srcset="/sites/default/files/styles/card_desktop/public/5999da6c-8e55-47d4-bbb7-8eaedd2125ff.jpeg?itok=cUFzi2lY 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="129">
-              <source srcset="/sites/default/files/styles/card_mobile/public/5999da6c-8e55-47d4-bbb7-8eaedd2125ff.jpeg?itok=6q2PSM_R 1x" type="image/jpeg" width="585" height="176">
-                  <img loading="lazy" src="/sites/default/files/5999da6c-8e55-47d4-bbb7-8eaedd2125ff.jpeg" width="1000" height="300" alt="Een avond met Ingeborg  Ingeborg TM Sergeant">
-
-  </picture>
-
-
-</figure>
-
-					</div>
-
-			</div>
-
-	<div class="z-10 flex flex-1 c-card__container">
-		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
-			<div class="flex flex-col gap-2 vp7:gap-4">
-				<div class="flex flex-col gap-1 vp7:gap-2">
-											<div class="flex items-center gap-3">
-															<span class="sr-only">Thema is</span>
-
-								<p class="typo-overline text-neutral-80">Beurs, lezing en congres</p>
-							
-							
-													</div>
-					
-											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/een-avond-met-ingeborg-ingeborg-tm-sergeant">
-							
-<span>Een avond met Ingeborg  Ingeborg TM Sergeant</span>
-
-						</a>
-					
-									</div>
-
-									<div class="flex flex-col gap-2">
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">De evolutie</p>
-							</div>
-						
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Alle leeftijden</p>
-							</div>
-											</div>
-							</div>
-
-							
-
-  
-
-<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
-	
-			<div>
-			<span class="c-link__text typo-strong text-primary">Lees meer</span>
-		</div>
-	
-			
-	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
-</svg>
-
-	</span>
-	</div>
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Een avond met Dikke Freddy (UiT in Brugge Events)]]></title>
-        <id>https://www.brugge.be/activiteiten/een-avond-met-dikke-freddy</id>
-        <link href="https://www.brugge.be/activiteiten/een-avond-met-dikke-freddy"/>
-        <updated>2025-03-21T17:34:23.320Z</updated>
-        <content type="html"><![CDATA[<div class="relative ">
-					
-<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
-									
-		<div class="flex flex-col items-center">
-							<p class="typo-overline text-neutral-80">vr</p>
-			
-							<p class=" typo-h3 text-black leading-none">21</p>
-			
-							<p class="leading-none">mrt</p>
-			
-							<p class="typo-overline text-neutral-80">2025</p>
-					</div>
-
-			</div>
-		
-		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover  flex items-center justify-center ">
-							
-	<span class="c-icon c-icon--8 text-secondary-80" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
-		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7l-55.5-43.5c.5-3.1 .7-6.3 .7-9.6V96c0-35.3-28.7-64-64-64H128c-14.4 0-27.8 4.8-38.5 12.9L38.8 5.1zM134.4 80H512c8.8 0 16 7.2 16 16V388.5l-53.4-41.9L387 233.3c-4.5-5.9-11.6-9.3-19-9.3s-14.4 3.4-19 9.3l-7.2 9.3L256 175.3c-.4-26.2-21.7-47.3-48-47.3c-3.7 0-7.4 .4-10.8 1.2L134.4 80zm353 400L282.9 318.9 266 340.7l-30.5-42.7C231 291.7 223.8 288 216 288s-15 3.7-19.5 10.1l-80 112-4.5 6.3 0-.3V184.2L64 146.4V416c0 35.3 28.7 64 64 64H487.4z"></path></svg>
-
-	</span>
-					</div>
-
-			</div>
-
-	<div class="z-10 flex flex-1 c-card__container">
-		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
-			<div class="flex flex-col gap-2 vp7:gap-4">
-				<div class="flex flex-col gap-1 vp7:gap-2">
-											<div class="flex items-center gap-3">
-															<span class="sr-only">Thema is</span>
-
-								<p class="typo-overline text-neutral-80">Dans &amp; theater</p>
-							
-							
-													</div>
-					
-											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/een-avond-met-dikke-freddy">
-							
-<span>Een avond met Dikke Freddy</span>
-
-						</a>
-					
-									</div>
-
-									<div class="flex flex-col gap-2">
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Buurtcentrum De Balsemboom</p>
-							</div>
-						
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Alle leeftijden</p>
-							</div>
-											</div>
-							</div>
-
-							
-
-  
-
-<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
-	
-			<div>
-			<span class="c-link__text typo-strong text-primary">Lees meer</span>
-		</div>
-	
-			
-	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
-</svg>
-
-	</span>
-	</div>
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jef Neve & Teus Nobel @Izzy jazzclub Brugge (UiT in Brugge Events)]]></title>
-        <id>https://www.brugge.be/activiteiten/jef-neve-teus-nobel-izzy-jazzclub-brugge</id>
-        <link href="https://www.brugge.be/activiteiten/jef-neve-teus-nobel-izzy-jazzclub-brugge"/>
-        <updated>2025-03-21T17:34:23.323Z</updated>
-        <content type="html"><![CDATA[<div class="relative ">
-					
-<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
-									
-		<div class="flex flex-col items-center">
-							<p class="typo-overline text-neutral-80">vr</p>
-			
-							<p class=" typo-h3 text-black leading-none">21</p>
-			
-							<p class="leading-none">mrt</p>
-			
-							<p class="typo-overline text-neutral-80">2025</p>
-					</div>
-
-			</div>
-		
-		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
-								
-
-<figure>
-	    <picture>
-                  <source srcset="/sites/default/files/styles/card_desktop/public/ddda42de-a397-4e3b-bd70-da5561e3f7fc.jpeg?itok=G2sab41Q 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="286">
-              <source srcset="/sites/default/files/styles/card_mobile/public/ddda42de-a397-4e3b-bd70-da5561e3f7fc.jpeg?itok=OZdYN5Gf 1x" type="image/jpeg" width="585" height="389">
-                  <img loading="lazy" src="/sites/default/files/ddda42de-a397-4e3b-bd70-da5561e3f7fc.jpeg" width="6013" height="4001" alt="Jef Neve &amp; Teus Nobel @Izzy jazzclub Brugge">
-
-  </picture>
-
-
-</figure>
-
-					</div>
-
-			</div>
-
-	<div class="z-10 flex flex-1 c-card__container">
-		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
-			<div class="flex flex-col gap-2 vp7:gap-4">
-				<div class="flex flex-col gap-1 vp7:gap-2">
-											<div class="flex items-center gap-3">
-															<span class="sr-only">Thema is</span>
-
-								<p class="typo-overline text-neutral-80">Concert</p>
-							
-							
-													</div>
-					
-											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/jef-neve-teus-nobel-izzy-jazzclub-brugge">
-							
-<span>Jef Neve &amp; Teus Nobel @Izzy jazzclub Brugge</span>
-
-						</a>
-					
-									</div>
-
-									<div class="flex flex-col gap-2">
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Estaminet 't Hamerken in brouwerij De Halve Maan</p>
-							</div>
-						
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Alle leeftijden</p>
-							</div>
-											</div>
-							</div>
-
-							
-
-  
-
-<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
-	
-			<div>
-			<span class="c-link__text typo-strong text-primary">Lees meer</span>
-		</div>
-	
-			
-	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
-</svg>
-
-	</span>
-	</div>
-					</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brussels Philharmonic / Stravinsky. Le sacre du printemps (UiT in Brugge Events)]]></title>
-        <id>https://www.brugge.be/activiteiten/brussels-philharmonic-stravinsky-le-sacre-du-printemps</id>
-        <link href="https://www.brugge.be/activiteiten/brussels-philharmonic-stravinsky-le-sacre-du-printemps"/>
-        <updated>2025-03-21T17:34:23.326Z</updated>
-        <content type="html"><![CDATA[<div class="relative ">
-					
-<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
-									
-		<div class="flex flex-col items-center">
-							<p class="typo-overline text-neutral-80">vr</p>
-			
-							<p class=" typo-h3 text-black leading-none">21</p>
-			
-							<p class="leading-none">mrt</p>
-			
-							<p class="typo-overline text-neutral-80">2025</p>
-					</div>
-
-			</div>
-		
-		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
-								
-
-<figure>
-	    <picture>
-                  <source srcset="/sites/default/files/styles/card_desktop/public/6a34c3c1-c9ba-4b5e-97b6-29bc505249d9.jpeg?itok=Dck-t50g 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="241">
-              <source srcset="/sites/default/files/styles/card_mobile/public/6a34c3c1-c9ba-4b5e-97b6-29bc505249d9.jpeg?itok=btkvFtOu 1x" type="image/jpeg" width="585" height="328">
-                  <img loading="lazy" src="/sites/default/files/6a34c3c1-c9ba-4b5e-97b6-29bc505249d9.jpeg" width="1280" height="717" alt="Brussels Philharmonic / Stravinsky. Le sacre du printemps">
-
-  </picture>
-
-
-</figure>
-
-					</div>
-
-					<div class="absolute c-card__uitpas">
-				<svg xmlns="http://www.w3.org/2000/svg" width="80" height="31" fill="none" viewBox="0 0 80 31">
-  <g class="uitpas">
-    <rect width="80" height="31" fill="#fff" rx="4"></rect>
-    <g class="UiTPAS-logo">
-      <g class="Group">
-        <path fill="#129773" fill-rule="evenodd" d="M16.595 16.85c0 .99-.106 1.788-.88 2.5-.69.637-1.535.86-2.38.931-.736.064-1.698-.046-2.32-.475-.855-.607-1.02-1.504-1.02-2.648v-6.31l2.51.205v5.719c0 .306-.013.72.151.996.188.284.563.386.88.373.281-.014.633-.119.844-.336.316-.308.28-.769.28-1.18V11.23l1.935.158v5.461Z" class="Fill-1" clip-rule="evenodd"></path>
-        <path fill="#129773" fill-rule="evenodd" d="m17.365 14.043 2.302.07v5.4l-2.302.186v-5.656Zm0-2.594 2.302.188V13.5l-2.302-.099v-1.952Z" class="Fill-3" clip-rule="evenodd"></path>
-        <path fill="#129773" fill-rule="evenodd" d="m24.306 19.204-2.342.194v-5.819l-1.686-.072v-1.91l5.678.47v1.683l-1.65-.07v5.524Z" class="Fill-5" clip-rule="evenodd"></path>
-        <path fill="#129773" fill-rule="evenodd" d="M8 8.3h24.71v14.55H8l19.768-2.424v-9.7L8 8.301Z" class="Fill-7" clip-rule="evenodd"></path>
-        <path fill="#72C1AB" fill-rule="evenodd" d="M38.918 8.3c1.44.003 3.04.058 4.302.765 1.399.805 2.229 2.248 2.229 3.817 0 1.379-.547 2.693-1.66 3.564-1.159.912-2.645 1.124-4.087 1.124h-2.338v5.28H32.71V8.3h6.208Zm-.183 3.331h-1.371v2.821h1.276c1.034-.003 2.242-.096 2.242-1.421 0-1.294-1.136-1.4-2.186-1.4h.04ZM53.67 8.3l4.67 14.55h-4.67l-.846-2.862h-3.976l-.913 2.863h-3.714L48.848 8.3h4.822Zm-2.846 4.285-1.216 4.22h2.433l-1.216-4.22Z" class="Combined-Shape" clip-rule="evenodd"></path>
-        <path fill="#72C1AB" fill-rule="evenodd" d="M58.648 18.56C59.45 21.725 62.23 23 65.356 23 68.44 23 72 21.598 72 18.092c0-1.594-.76-2.953-2.215-3.717-1.302-.66-2.8-.894-4.212-1.17-.564-.127-1.65-.275-1.65-1.04 0-.766.869-.936 1.477-.936 1.15 0 1.975.383 2.41 1.467l3.778-1.126C70.675 9.04 68.178 8 65.595 8c-1.476 0-3.06.276-4.277 1.105a4.501 4.501 0 0 0-1.91 3.655c0 3.463 3.321 4.206 6.122 4.737.673.128 1.823.298 1.823 1.19 0 .808-1.172.892-1.758.892-1.325 0-2.323-.467-2.714-1.763l-4.233.743Z" class="Path" clip-rule="evenodd"></path>
-      </g>
-    </g>
-  </g>
-</svg>
-
-			</div>
-			</div>
-
-	<div class="z-10 flex flex-1 c-card__container">
-		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
-			<div class="flex flex-col gap-2 vp7:gap-4">
-				<div class="flex flex-col gap-1 vp7:gap-2">
-											<div class="flex items-center gap-3">
-															<span class="sr-only">Thema is</span>
-
-								<p class="typo-overline text-neutral-80">Concert</p>
-							
-							
-													</div>
-					
-											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/brussels-philharmonic-stravinsky-le-sacre-du-printemps">
-							
-<span>Brussels Philharmonic / Stravinsky. Le sacre du printemps</span>
-
-						</a>
-					
-									</div>
-
-									<div class="flex flex-col gap-2">
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Concertgebouw, concertzaal</p>
-							</div>
-						
-													<div class="flex gap-2">
-								
-	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
-</svg>
-
-	</span>
-
-								<p class="text-black typo-p-small">Vanaf 14 jaar</p>
-							</div>
-											</div>
-							</div>
-
-							
-
-  
-
-<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
-	
-			<div>
-			<span class="c-link__text typo-strong text-primary">Lees meer</span>
-		</div>
-	
-			
-	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
-		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
-</svg>
-
-	</span>
-	</div>
-					</div>
-	</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Brugge Classic 2025 (UiT in Brugge Events)]]></title>
         <id>https://www.brugge.be/activiteiten/brugge-classic-2025</id>
         <link href="https://www.brugge.be/activiteiten/brugge-classic-2025"/>
-        <updated>2025-03-21T17:34:23.326Z</updated>
+        <updated>2025-03-22T05:34:51.955Z</updated>
         <content type="html"><![CDATA[<div class="relative ">
 					
 <div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
@@ -785,7 +133,7 @@
         <title type="html"><![CDATA[Zaterdagopening Donorcentrum Brugge (UiT in Brugge Events)]]></title>
         <id>https://www.brugge.be/activiteiten/zaterdagopening-donorcentrum-brugge</id>
         <link href="https://www.brugge.be/activiteiten/zaterdagopening-donorcentrum-brugge"/>
-        <updated>2025-03-21T17:34:23.327Z</updated>
+        <updated>2025-03-22T05:34:51.959Z</updated>
         <content type="html"><![CDATA[<div class="relative ">
 					
 <div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
@@ -892,7 +240,7 @@
         <title type="html"><![CDATA[Inleefspel: Bloed geven (UiT in Brugge Events)]]></title>
         <id>https://www.brugge.be/activiteiten/inleefspel-bloed-geven</id>
         <link href="https://www.brugge.be/activiteiten/inleefspel-bloed-geven"/>
-        <updated>2025-03-21T17:34:23.329Z</updated>
+        <updated>2025-03-22T05:34:51.959Z</updated>
         <content type="html"><![CDATA[<div class="relative ">
 					
 <div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
@@ -996,66 +344,726 @@
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[paleobiota of the Latah Formation (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Paleobiota_of_the_Latah_Formation</id>
-        <link href="https://en.wikipedia.org/wiki/Paleobiota_of_the_Latah_Formation"/>
-        <updated>2025-03-21T17:34:25.817Z</updated>
-        <content type="html"><![CDATA[... that some fossils of the <b><a href="/wiki/Paleobiota_of_the_Latah_Formation" title="Paleobiota of the Latah Formation">paleobiota of the Latah Formation</a></b> still have living color <i>(example pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
+        <title type="html"><![CDATA[Boek&Babbels Brugge (UiT in Brugge Events)]]></title>
+        <id>https://www.brugge.be/activiteiten/boekbabbels-brugge-0</id>
+        <link href="https://www.brugge.be/activiteiten/boekbabbels-brugge-0"/>
+        <updated>2025-03-22T05:34:51.960Z</updated>
+        <content type="html"><![CDATA[<div class="relative ">
+					
+<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
+									
+		<div class="flex flex-col items-center">
+							<p class="typo-overline text-neutral-80">za</p>
+			
+							<p class=" typo-h3 text-black leading-none">22</p>
+			
+							<p class="leading-none">mrt</p>
+			
+							<p class="typo-overline text-neutral-80">2025</p>
+					</div>
+
+			</div>
+		
+		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
+								
+
+<figure>
+	    <picture>
+                  <source srcset="/sites/default/files/styles/card_desktop/public/e9883816-63b7-46d6-9830-2257f3376f6d.jpeg?itok=x-D0gigp 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="287">
+              <source srcset="/sites/default/files/styles/card_mobile/public/e9883816-63b7-46d6-9830-2257f3376f6d.jpeg?itok=neyJvjPI 1x" type="image/jpeg" width="585" height="391">
+                  <img loading="lazy" src="/sites/default/files/e9883816-63b7-46d6-9830-2257f3376f6d.jpeg" width="4895" height="3268" alt="Boek&amp;Babbels Brugge">
+
+  </picture>
+
+
+</figure>
+
+					</div>
+
+			</div>
+
+	<div class="z-10 flex flex-1 c-card__container">
+		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
+			<div class="flex flex-col gap-2 vp7:gap-4">
+				<div class="flex flex-col gap-1 vp7:gap-2">
+											<div class="flex items-center gap-3">
+															<span class="sr-only">Thema is</span>
+
+								<p class="typo-overline text-neutral-80">Feesten</p>
+							
+							
+													</div>
+					
+											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/boekbabbels-brugge-0">
+							
+<span>Boek&amp;Babbels Brugge</span>
+
+						</a>
+					
+									</div>
+
+									<div class="flex flex-col gap-2">
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">KORF</p>
+							</div>
+						
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Vanaf 18 jaar</p>
+							</div>
+											</div>
+							</div>
+
+							
+
+  
+
+<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
+	
+			<div>
+			<span class="c-link__text typo-strong text-primary">Lees meer</span>
+		</div>
+	
+			
+	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
+</svg>
+
+	</span>
+	</div>
+					</div>
+	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Little Current (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Little_Current,_Ontario</id>
-        <link href="https://en.wikipedia.org/wiki/Little_Current,_Ontario"/>
-        <updated>2025-03-21T17:34:25.820Z</updated>
-        <content type="html"><![CDATA[... that the <a href="/wiki/Anishinaabe" title="Anishinaabe">Anishinaabe</a> founded <b><a href="/wiki/Little_Current,_Ontario" title="Little Current, Ontario">Little Current</a></b>, but were displaced by white settlers who took over their profitable trade?]]></content>
+        <title type="html"><![CDATA[Workshop | Circulaire workshop met rondleiding in Kringwinkel ’t rad (UiT in Brugge Events)]]></title>
+        <id>https://www.brugge.be/activiteiten/workshop-circulaire-workshop-met-rondleiding-kringwinkel-t-rad</id>
+        <link href="https://www.brugge.be/activiteiten/workshop-circulaire-workshop-met-rondleiding-kringwinkel-t-rad"/>
+        <updated>2025-03-22T05:34:51.961Z</updated>
+        <content type="html"><![CDATA[<div class="relative ">
+					
+<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
+									
+		<div class="flex flex-col items-center">
+							<p class="typo-overline text-neutral-80">za</p>
+			
+							<p class=" typo-h3 text-black leading-none">22</p>
+			
+							<p class="leading-none">mrt</p>
+			
+							<p class="typo-overline text-neutral-80">2025</p>
+					</div>
+
+			</div>
+		
+		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
+								
+
+<figure>
+	    <picture>
+                  <source srcset="/sites/default/files/styles/card_desktop/public/3dcd4459-d061-4e31-ba8a-2ff94621eeb6.jpeg?itok=L6Eh34l8 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="287">
+              <source srcset="/sites/default/files/styles/card_mobile/public/3dcd4459-d061-4e31-ba8a-2ff94621eeb6.jpeg?itok=9ew3kvES 1x" type="image/jpeg" width="585" height="390">
+                  <img loading="lazy" src="/sites/default/files/3dcd4459-d061-4e31-ba8a-2ff94621eeb6.jpeg" width="5760" height="3840" alt="Workshop | Circulaire workshop met rondleiding in Kringwinkel ’t rad">
+
+  </picture>
+
+
+</figure>
+
+					</div>
+
+					<div class="absolute c-card__uitpas">
+				<svg xmlns="http://www.w3.org/2000/svg" width="80" height="31" fill="none" viewBox="0 0 80 31">
+  <g class="uitpas">
+    <rect width="80" height="31" fill="#fff" rx="4"></rect>
+    <g class="UiTPAS-logo">
+      <g class="Group">
+        <path fill="#129773" fill-rule="evenodd" d="M16.595 16.85c0 .99-.106 1.788-.88 2.5-.69.637-1.535.86-2.38.931-.736.064-1.698-.046-2.32-.475-.855-.607-1.02-1.504-1.02-2.648v-6.31l2.51.205v5.719c0 .306-.013.72.151.996.188.284.563.386.88.373.281-.014.633-.119.844-.336.316-.308.28-.769.28-1.18V11.23l1.935.158v5.461Z" class="Fill-1" clip-rule="evenodd"></path>
+        <path fill="#129773" fill-rule="evenodd" d="m17.365 14.043 2.302.07v5.4l-2.302.186v-5.656Zm0-2.594 2.302.188V13.5l-2.302-.099v-1.952Z" class="Fill-3" clip-rule="evenodd"></path>
+        <path fill="#129773" fill-rule="evenodd" d="m24.306 19.204-2.342.194v-5.819l-1.686-.072v-1.91l5.678.47v1.683l-1.65-.07v5.524Z" class="Fill-5" clip-rule="evenodd"></path>
+        <path fill="#129773" fill-rule="evenodd" d="M8 8.3h24.71v14.55H8l19.768-2.424v-9.7L8 8.301Z" class="Fill-7" clip-rule="evenodd"></path>
+        <path fill="#72C1AB" fill-rule="evenodd" d="M38.918 8.3c1.44.003 3.04.058 4.302.765 1.399.805 2.229 2.248 2.229 3.817 0 1.379-.547 2.693-1.66 3.564-1.159.912-2.645 1.124-4.087 1.124h-2.338v5.28H32.71V8.3h6.208Zm-.183 3.331h-1.371v2.821h1.276c1.034-.003 2.242-.096 2.242-1.421 0-1.294-1.136-1.4-2.186-1.4h.04ZM53.67 8.3l4.67 14.55h-4.67l-.846-2.862h-3.976l-.913 2.863h-3.714L48.848 8.3h4.822Zm-2.846 4.285-1.216 4.22h2.433l-1.216-4.22Z" class="Combined-Shape" clip-rule="evenodd"></path>
+        <path fill="#72C1AB" fill-rule="evenodd" d="M58.648 18.56C59.45 21.725 62.23 23 65.356 23 68.44 23 72 21.598 72 18.092c0-1.594-.76-2.953-2.215-3.717-1.302-.66-2.8-.894-4.212-1.17-.564-.127-1.65-.275-1.65-1.04 0-.766.869-.936 1.477-.936 1.15 0 1.975.383 2.41 1.467l3.778-1.126C70.675 9.04 68.178 8 65.595 8c-1.476 0-3.06.276-4.277 1.105a4.501 4.501 0 0 0-1.91 3.655c0 3.463 3.321 4.206 6.122 4.737.673.128 1.823.298 1.823 1.19 0 .808-1.172.892-1.758.892-1.325 0-2.323-.467-2.714-1.763l-4.233.743Z" class="Path" clip-rule="evenodd"></path>
+      </g>
+    </g>
+  </g>
+</svg>
+
+			</div>
+			</div>
+
+	<div class="z-10 flex flex-1 c-card__container">
+		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
+			<div class="flex flex-col gap-2 vp7:gap-4">
+				<div class="flex flex-col gap-1 vp7:gap-2">
+											<div class="flex items-center gap-3">
+															<span class="sr-only">Thema is</span>
+
+								<p class="typo-overline text-neutral-80">Opleiding, cursus en workshops</p>
+							
+							
+													</div>
+					
+											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/workshop-circulaire-workshop-met-rondleiding-kringwinkel-t-rad">
+							
+<span>Workshop | Circulaire workshop met rondleiding in Kringwinkel ’t rad</span>
+
+						</a>
+					
+									</div>
+
+									<div class="flex flex-col gap-2">
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Kringwinkel Seafront</p>
+							</div>
+						
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Vanaf 18 jaar</p>
+							</div>
+											</div>
+							</div>
+
+							
+
+  
+
+<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
+	
+			<div>
+			<span class="c-link__text typo-strong text-primary">Lees meer</span>
+		</div>
+	
+			
+	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
+</svg>
+
+	</span>
+	</div>
+					</div>
+	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elsie Chin (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Elsie_Chin_Yuen_Seetoo</id>
-        <link href="https://en.wikipedia.org/wiki/Elsie_Chin_Yuen_Seetoo"/>
-        <updated>2025-03-21T17:34:25.821Z</updated>
-        <content type="html"><![CDATA[... that in the span of five years, <b><a href="/wiki/Elsie_Chin_Yuen_Seetoo" title="Elsie Chin Yuen Seetoo">Elsie Chin</a></b> was a nurse during the <a href="/wiki/Battle_of_Hong_Kong" title="Battle of Hong Kong">Battle of Hong Kong</a>, served with the <a href="/wiki/Red_Cross_Society_of_China" title="Red Cross Society of China">Chinese Red Cross</a>, trained soldiers on first aid in India, and joined the <a href="/wiki/United_States_Army_Nurse_Corps" title="United States Army Nurse Corps">U.S. Army Nurse Corps</a>?]]></content>
+        <title type="html"><![CDATA[Transitional Dance / Michiel Vandevelde (UiT in Brugge Events)]]></title>
+        <id>https://www.brugge.be/activiteiten/transitional-dance-michiel-vandevelde</id>
+        <link href="https://www.brugge.be/activiteiten/transitional-dance-michiel-vandevelde"/>
+        <updated>2025-03-22T05:34:51.962Z</updated>
+        <content type="html"><![CDATA[<div class="relative ">
+					
+<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
+									
+		<div class="flex flex-col items-center">
+							<p class="typo-overline text-neutral-80">za</p>
+			
+							<p class=" typo-h3 text-black leading-none">22</p>
+			
+							<p class="leading-none">mrt</p>
+			
+							<p class="typo-overline text-neutral-80">2025</p>
+					</div>
+
+			</div>
+		
+		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
+								
+
+<figure>
+	    <picture>
+                  <source srcset="/sites/default/files/styles/card_desktop/public/34d8022f-6299-41ca-91b9-2c15f21c33c3.jpeg?itok=azEvMOjq 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="241">
+              <source srcset="/sites/default/files/styles/card_mobile/public/34d8022f-6299-41ca-91b9-2c15f21c33c3.jpeg?itok=spGxVPNE 1x" type="image/jpeg" width="585" height="328">
+                  <img loading="lazy" src="/sites/default/files/34d8022f-6299-41ca-91b9-2c15f21c33c3.jpeg" width="1280" height="717" alt="Transitional Dance / Michiel Vandevelde">
+
+  </picture>
+
+
+</figure>
+
+					</div>
+
+			</div>
+
+	<div class="z-10 flex flex-1 c-card__container">
+		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
+			<div class="flex flex-col gap-2 vp7:gap-4">
+				<div class="flex flex-col gap-1 vp7:gap-2">
+											<div class="flex items-center gap-3">
+															<span class="sr-only">Thema is</span>
+
+								<p class="typo-overline text-neutral-80">Opleiding, cursus en workshops</p>
+							
+							
+													</div>
+					
+											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/transitional-dance-michiel-vandevelde">
+							
+<span>Transitional Dance / Michiel Vandevelde</span>
+
+						</a>
+					
+									</div>
+
+									<div class="flex flex-col gap-2">
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Concertgebouw</p>
+							</div>
+						
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Alle leeftijden</p>
+							</div>
+											</div>
+							</div>
+
+							
+
+  
+
+<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
+	
+			<div>
+			<span class="c-link__text typo-strong text-primary">Lees meer</span>
+		</div>
+	
+			
+	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
+</svg>
+
+	</span>
+	</div>
+					</div>
+	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a treaty (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Second_Treaty_of_London</id>
-        <link href="https://en.wikipedia.org/wiki/Second_Treaty_of_London"/>
-        <updated>2025-03-21T17:34:25.824Z</updated>
-        <content type="html"><![CDATA[... that in 1359 the French King signed <b><a href="/wiki/Second_Treaty_of_London" title="Second Treaty of London">a treaty</a></b> which ceded almost half of France to England?]]></content>
+        <title type="html"><![CDATA[Grote Schelpenteldag 2025 (UiT in Brugge Events)]]></title>
+        <id>https://www.brugge.be/activiteiten/grote-schelpenteldag-2025</id>
+        <link href="https://www.brugge.be/activiteiten/grote-schelpenteldag-2025"/>
+        <updated>2025-03-22T05:34:51.964Z</updated>
+        <content type="html"><![CDATA[<div class="relative ">
+					
+<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
+									
+		<div class="flex flex-col items-center">
+							<p class="typo-overline text-neutral-80">za</p>
+			
+							<p class=" typo-h3 text-black leading-none">22</p>
+			
+							<p class="leading-none">mrt</p>
+			
+							<p class="typo-overline text-neutral-80">2025</p>
+					</div>
+
+			</div>
+		
+		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
+								
+
+<figure>
+	    <picture>
+                  <source srcset="/sites/default/files/styles/card_desktop/public/1df73f76-3ba5-44c3-b68b-c1f6cf7eacc3.jpeg?itok=EcKiFLJP 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="269">
+              <source srcset="/sites/default/files/styles/card_mobile/public/1df73f76-3ba5-44c3-b68b-c1f6cf7eacc3.jpeg?itok=velVC7kT 1x" type="image/jpeg" width="585" height="366">
+                  <img loading="lazy" src="/sites/default/files/1df73f76-3ba5-44c3-b68b-c1f6cf7eacc3.jpeg" width="1200" height="750" alt="Grote Schelpenteldag 2025">
+
+  </picture>
+
+
+</figure>
+
+					</div>
+
+			</div>
+
+	<div class="z-10 flex flex-1 c-card__container">
+		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
+			<div class="flex flex-col gap-2 vp7:gap-4">
+				<div class="flex flex-col gap-1 vp7:gap-2">
+											<div class="flex items-center gap-3">
+															<span class="sr-only">Thema is</span>
+
+								<p class="typo-overline text-neutral-80">Rondleiding en uitstap</p>
+							
+							
+													</div>
+					
+											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/grote-schelpenteldag-2025">
+							
+<span>Grote Schelpenteldag 2025</span>
+
+						</a>
+					
+									</div>
+
+									<div class="flex flex-col gap-2">
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Badengebouw</p>
+							</div>
+						
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Alle leeftijden</p>
+							</div>
+											</div>
+							</div>
+
+							
+
+  
+
+<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
+	
+			<div>
+			<span class="c-link__text typo-strong text-primary">Lees meer</span>
+		</div>
+	
+			
+	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
+</svg>
+
+	</span>
+	</div>
+					</div>
+	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fatema Al Harbi (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Fatema_Al_Harbi</id>
-        <link href="https://en.wikipedia.org/wiki/Fatema_Al_Harbi"/>
-        <updated>2025-03-21T17:34:25.825Z</updated>
-        <content type="html"><![CDATA[...  that Bahraini author <b><a href="/wiki/Fatema_Al_Harbi" title="Fatema Al Harbi">Fatema Al Harbi</a></b>,  the first non-government Bahraini to visit Israel, faced death threats upon her return?]]></content>
+        <title type="html"><![CDATA[Circulaire workshop en rondleiding in Seafront kringwinkel (UiT in Brugge Events)]]></title>
+        <id>https://www.brugge.be/activiteiten/circulaire-workshop-en-rondleiding-seafront-kringwinkel</id>
+        <link href="https://www.brugge.be/activiteiten/circulaire-workshop-en-rondleiding-seafront-kringwinkel"/>
+        <updated>2025-03-22T05:34:51.966Z</updated>
+        <content type="html"><![CDATA[<div class="relative ">
+					
+<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
+									
+		<div class="flex flex-col items-center">
+							<p class="typo-overline text-neutral-80">za</p>
+			
+							<p class=" typo-h3 text-black leading-none">22</p>
+			
+							<p class="leading-none">mrt</p>
+			
+							<p class="typo-overline text-neutral-80">2025</p>
+					</div>
+
+			</div>
+		
+		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
+								
+
+<figure>
+	    <picture>
+                  <source srcset="/sites/default/files/styles/card_desktop/public/4dcdeee2-8a6d-437b-a7da-ee4a282884da.jpeg?itok=ZQkeiBaF 1x" media="(min-width: 768px)" type="image/jpeg" width="430" height="287">
+              <source srcset="/sites/default/files/styles/card_mobile/public/4dcdeee2-8a6d-437b-a7da-ee4a282884da.jpeg?itok=LdpBb2MS 1x" type="image/jpeg" width="585" height="390">
+                  <img loading="lazy" src="/sites/default/files/4dcdeee2-8a6d-437b-a7da-ee4a282884da.jpeg" width="1024" height="683" alt="Circulaire workshop en rondleiding in Seafront kringwinkel">
+
+  </picture>
+
+
+</figure>
+
+					</div>
+
+			</div>
+
+	<div class="z-10 flex flex-1 c-card__container">
+		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
+			<div class="flex flex-col gap-2 vp7:gap-4">
+				<div class="flex flex-col gap-1 vp7:gap-2">
+											<div class="flex items-center gap-3">
+															<span class="sr-only">Thema is</span>
+
+								<p class="typo-overline text-neutral-80">Rondleiding en uitstap</p>
+							
+							
+													</div>
+					
+											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/circulaire-workshop-en-rondleiding-seafront-kringwinkel">
+							
+<span>Circulaire workshop en rondleiding in Seafront kringwinkel</span>
+
+						</a>
+					
+									</div>
+
+									<div class="flex flex-col gap-2">
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Kringwinkel Seafront</p>
+							</div>
+						
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Alle leeftijden</p>
+							</div>
+											</div>
+							</div>
+
+							
+
+  
+
+<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
+	
+			<div>
+			<span class="c-link__text typo-strong text-primary">Lees meer</span>
+		</div>
+	
+			
+	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
+</svg>
+
+	</span>
+	</div>
+					</div>
+	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sacred Heart Church (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Sacred_Heart_Church_(Pomeroy,_Ohio)</id>
-        <link href="https://en.wikipedia.org/wiki/Sacred_Heart_Church_(Pomeroy,_Ohio)"/>
-        <updated>2025-03-21T17:34:25.826Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Sacred_Heart_Church_(Pomeroy,_Ohio)" title="Sacred Heart Church (Pomeroy, Ohio)">Sacred Heart Church</a></b> was the birthplace of the orphanage which would become <a href="/wiki/Pontifical_College_Josephinum" title="Pontifical College Josephinum">the only pontifical university in the United States</a>?]]></content>
+        <title type="html"><![CDATA[The Hobbit Marathon (UiT in Brugge Events)]]></title>
+        <id>https://www.brugge.be/activiteiten/hobbit-marathon</id>
+        <link href="https://www.brugge.be/activiteiten/hobbit-marathon"/>
+        <updated>2025-03-22T05:34:51.967Z</updated>
+        <content type="html"><![CDATA[<div class="relative ">
+					
+<div class="c-date px-4 py-3 shadow-second flex items-center gap-1 w-fit rounded bg-neutral-0 absolute top-4 left-4 z-10">
+									
+		<div class="flex flex-col items-center">
+							<p class="typo-overline text-neutral-80">za</p>
+			
+							<p class=" typo-h3 text-black leading-none">22</p>
+			
+							<p class="leading-none">mrt</p>
+			
+							<p class="typo-overline text-neutral-80">2025</p>
+					</div>
+
+			</div>
+		
+		<div class="c-card__image rounded-t bg-secondary-40 overflow-hidden image-cover ">
+								
+
+<figure>
+	    <picture>
+                  <source srcset="/sites/default/files/styles/card_desktop/public/9d0e2463-cf9f-41a5-aaa0-deef55e5ff3c.jpeg?itok=GrvCTn5v 1x" media="(min-width: 768px)" type="image/jpeg" width="172" height="258">
+              <source srcset="/sites/default/files/styles/card_mobile/public/9d0e2463-cf9f-41a5-aaa0-deef55e5ff3c.jpeg?itok=riSpO0ku 1x" type="image/jpeg" width="172" height="258">
+                  <img loading="lazy" src="/sites/default/files/9d0e2463-cf9f-41a5-aaa0-deef55e5ff3c.jpeg" width="172" height="258" alt="The Hobbit Marathon">
+
+  </picture>
+
+
+</figure>
+
+					</div>
+
+			</div>
+
+	<div class="z-10 flex flex-1 c-card__container">
+		<div class="c-card__content rounded-b flex flex-col items-start p-6 vp7:p-8 justify-between flex-1 bg-neutral-0 transition-colors">
+			<div class="flex flex-col gap-2 vp7:gap-4">
+				<div class="flex flex-col gap-1 vp7:gap-2">
+											<div class="flex items-center gap-3">
+															<span class="sr-only">Thema is</span>
+
+								<p class="typo-overline text-neutral-80">Film</p>
+							
+							
+													</div>
+					
+											<a class="text-black transition-colors duration-300 ease-in-out typo-h4 group-hover:text-primary c-card__clickable" href="/activiteiten/hobbit-marathon">
+							
+<span>The Hobbit Marathon</span>
+
+						</a>
+					
+									</div>
+
+									<div class="flex flex-col gap-2">
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="locatie is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5 8C14.5 5.53125 12.4688 3.5 10 3.5C7.5 3.5 5.5 5.53125 5.5 8C5.5 8.40625 5.625 9 5.96875 9.8125C6.28125 10.5625 6.75 11.4375 7.28125 12.3125C8.1875 13.75 9.21875 15.125 10 16.125C10.75 15.125 11.7812 13.75 12.6875 12.3125C13.2188 11.4375 13.6875 10.5625 14 9.8125C14.3438 9 14.5 8.40625 14.5 8ZM16 8C16 10.75 12.3438 15.5938 10.7188 17.625C10.3438 18.0938 9.625 18.0938 9.25 17.625C7.65625 15.5938 4 10.75 4 8C4 4.6875 6.6875 2 10 2C13.3125 2 16 4.6875 16 8ZM11 8C11 7.46875 10.5312 7 10 7C9.4375 7 9 7.46875 9 8C9 8.5625 9.4375 9 10 9C10.5312 9 11 8.5625 11 8ZM7.5 8C7.5 7.125 7.96875 6.3125 8.75 5.84375C9.5 5.40625 10.4688 5.40625 11.25 5.84375C12 6.3125 12.5 7.125 12.5 8C12.5 8.90625 12 9.71875 11.25 10.1875C10.4688 10.625 9.5 10.625 8.75 10.1875C7.96875 9.71875 7.5 8.90625 7.5 8Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Kinepolis Brugge</p>
+							</div>
+						
+													<div class="flex gap-2">
+								
+	<span class="c-icon " data-component-id="bbe:icon" role="img" aria-label="leeftijd is">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M12.5 6C12.5 5.125 12 4.3125 11.25 3.84375C10.4688 3.40625 9.5 3.40625 8.75 3.84375C7.96875 4.3125 7.5 5.125 7.5 6C7.5 6.90625 7.96875 7.71875 8.75 8.1875C9.5 8.625 10.4688 8.625 11.25 8.1875C12 7.71875 12.5 6.90625 12.5 6ZM6 6C6 4.59375 6.75 3.28125 8 2.5625C9.21875 1.84375 10.75 1.84375 12 2.5625C13.2188 3.28125 14 4.59375 14 6C14 7.4375 13.2188 8.75 12 9.46875C10.75 10.1875 9.21875 10.1875 8 9.46875C6.75 8.75 6 7.4375 6 6ZM4.53125 16.5H15.4375C15.1562 14.5312 13.4688 13 11.4062 13H8.5625C6.5 13 4.8125 14.5312 4.53125 16.5ZM3 17.0938C3 14 5.46875 11.5 8.5625 11.5H11.4062C14.5 11.5 17 14 17 17.0938C17 17.5938 16.5625 18 16.0625 18H3.90625C3.40625 18 3 17.5938 3 17.0938Z"></path>
+</svg>
+
+	</span>
+
+								<p class="text-black typo-p-small">Alle leeftijden</p>
+							</div>
+											</div>
+							</div>
+
+							
+
+  
+
+<div class="c-link c-link--default flex gap-2 items-start cursor-pointer mt-10 vp7:mt-2" target="_self" data-component-id="bbe:link" role="link" tabindex="0">
+	
+			<div>
+			<span class="c-link__text typo-strong text-primary">Lees meer</span>
+		</div>
+	
+			
+	<span class="c-icon c-link__icon mt-[4px] text-primary" data-component-id="bbe:icon" focusable="false" aria-hidden="true">
+		<svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.75 10.5625L11.25 15.8125C10.9375 16.0937 10.4688 16.0937 10.1875 15.7812C9.90625 15.4687 9.90625 15 10.2188 14.7187L14.375 10.75H3.75C3.3125 10.75 3 10.4375 3 9.99997C3 9.59372 3.3125 9.24997 3.75 9.24997H14.375L10.2188 5.31247C9.90625 5.03122 9.90625 4.53122 10.1875 4.24997C10.4688 3.93747 10.9688 3.93747 11.25 4.21872L16.75 9.46872C16.9062 9.62497 17 9.81247 17 9.99997C17 10.2187 16.9062 10.4062 16.75 10.5625Z"></path>
+</svg>
+
+	</span>
+	</div>
+					</div>
+	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Darcy Grey (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Darcy_Grey</id>
-        <link href="https://en.wikipedia.org/wiki/Darcy_Grey"/>
-        <updated>2025-03-21T17:34:25.828Z</updated>
-        <content type="html"><![CDATA[... that actor <b><a href="/wiki/Darcy_Grey" title="Darcy Grey">Darcy Grey</a></b> sold "posh dog food" on weekends?]]></content>
+        <title type="html"><![CDATA[Fabián Cháirez (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Fabi%C3%A1n_Ch%C3%A1irez</id>
+        <link href="https://en.wikipedia.org/wiki/Fabi%C3%A1n_Ch%C3%A1irez"/>
+        <updated>2025-03-22T05:34:54.967Z</updated>
+        <content type="html"><![CDATA[... that a painting by <b><a href="/wiki/Fabi%C3%A1n_Ch%C3%A1irez" title="Fabián Cháirez">Fabián Cháirez</a></b> <i>(pictured)</i> depicting a nude, effeminate <a href="/wiki/Emiliano_Zapata" title="Emiliano Zapata">Emiliano Zapata</a> caused violent protests at the <a href="/wiki/Palacio_de_Bellas_Artes" title="Palacio de Bellas Artes">Palacio de Bellas Artes</a>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Endgame: Inside the Royal Family and the Monarchy's Fight for Survival (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Endgame_(Scobie_book)</id>
-        <link href="https://en.wikipedia.org/wiki/Endgame_(Scobie_book)"/>
-        <updated>2025-03-21T17:34:25.830Z</updated>
-        <content type="html"><![CDATA[... that the Dutch edition of <i><b><a href="/wiki/Endgame_(Scobie_book)" title="Endgame (Scobie book)">Endgame: Inside the Royal Family and the Monarchy's Fight for Survival</a></b></i> was recalled?]]></content>
+        <title type="html"><![CDATA[an American football game (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Armed_Forces_Benefit_Football_Game</id>
+        <link href="https://en.wikipedia.org/wiki/Armed_Forces_Benefit_Football_Game"/>
+        <updated>2025-03-22T05:34:54.968Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Armed_Forces_Benefit_Football_Game" title="Armed Forces Benefit Football Game">an American football game</a></b> had missiles set up in firing position on the field?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carl (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Carl_Zoll</id>
-        <link href="https://en.wikipedia.org/wiki/Carl_Zoll"/>
-        <updated>2025-03-21T17:34:25.832Z</updated>
-        <content type="html"><![CDATA[... that brothers <b><a href="/wiki/Carl_Zoll" title="Carl Zoll">Carl</a></b>, <b><a href="/wiki/Martin_Zoll" title="Martin Zoll">Martin</a></b>, and <b><a href="/wiki/Dick_Zoll" title="Dick Zoll">Dick Zoll</a></b> all played exactly one NFL game for the <a href="/wiki/Green_Bay_Packers" title="Green Bay Packers">Green Bay Packers</a>?]]></content>
+        <title type="html"><![CDATA[The Way We Talk (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/The_Way_We_Talk_(film)</id>
+        <link href="https://en.wikipedia.org/wiki/The_Way_We_Talk_(film)"/>
+        <updated>2025-03-22T05:34:54.983Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Chung_Suet_Ying" title="Chung Suet Ying">Chung Suet Ying</a> has better sign language skills than her character in <i><b><a href="/wiki/The_Way_We_Talk_(film)" title="The Way We Talk (film)">The Way We Talk</a></b></i>, which requires her to sign "worse"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golden Rondelle Theater (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Golden_Rondelle_Theater</id>
+        <link href="https://en.wikipedia.org/wiki/Golden_Rondelle_Theater"/>
+        <updated>2025-03-22T05:34:54.983Z</updated>
+        <content type="html"><![CDATA[... that while executives believed the <b><a href="/wiki/Golden_Rondelle_Theater" title="Golden Rondelle Theater">Golden Rondelle Theater</a></b> would be a waste of money, it was one of the <a href="/wiki/1964_New_York_World%27s_Fair" title="1964 New York World's Fair">1964 World's Fair</a>'s most popular attractions?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sahati Suharto (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Sahati_Suharto</id>
+        <link href="https://en.wikipedia.org/wiki/Sahati_Suharto"/>
+        <updated>2025-03-22T05:34:54.986Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/University_of_Indonesia" title="University of Indonesia">University of Indonesia</a> dean <b><a href="/wiki/Sahati_Suharto" title="Sahati Suharto">Sahati Suharto</a></b> was sued by one of her expelled students?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a Michigan radio station (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/WBLV</id>
+        <link href="https://en.wikipedia.org/wiki/WBLV"/>
+        <updated>2025-03-22T05:34:54.990Z</updated>
+        <content type="html"><![CDATA[... that the first general manager of <b><a href="/wiki/WBLV" title="WBLV">a Michigan radio station</a></b> almost died of carbon monoxide poisoning during construction?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robin Shahar (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Robin_Shahar</id>
+        <link href="https://en.wikipedia.org/wiki/Robin_Shahar"/>
+        <updated>2025-03-22T05:34:54.991Z</updated>
+        <content type="html"><![CDATA[... that the <a href="/wiki/Attorney_General_of_Georgia" title="Attorney General of Georgia">Attorney General of Georgia</a> argued that <b><a href="/wiki/Robin_Shahar" title="Robin Shahar">Robin Shahar</a></b><span class="nowrap">'s</span> lesbian wedding meant that she didn't have "good sense"?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aquilegia confusa (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Aquilegia_confusa</id>
+        <link href="https://en.wikipedia.org/wiki/Aquilegia_confusa"/>
+        <updated>2025-03-22T05:34:54.991Z</updated>
+        <content type="html"><![CDATA[... that the expansion of glaciers created two distinct forms of <i><b><a href="/wiki/Aquilegia_confusa" title="Aquilegia confusa">Aquilegia confusa</a></b></i>, with individual populations better adapted to different elevations?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cleo (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Cleo_(mathematician)</id>
+        <link href="https://en.wikipedia.org/wiki/Cleo_(mathematician)"/>
+        <updated>2025-03-22T05:34:54.992Z</updated>
+        <content type="html"><![CDATA[... that the identity of <b><a href="/wiki/Cleo_(mathematician)" title="Cleo (mathematician)">Cleo</a></b>, who provided online answers to complex mathematics problems without showing any work, was revealed over a decade later in 2025?]]></content>
     </entry>
 </feed>
